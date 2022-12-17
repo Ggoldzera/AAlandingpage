@@ -69,7 +69,7 @@ h6{
 
 
 .main-bg{
-        background-image: url(/AAlandingpage/rose-petals.svg);
+        background-image: url(/AAlandingpage/assets/img/rose-petals.svg);
     background-size: cover;
     background-position: center center;
     color: var(--primary-color);
@@ -218,7 +218,7 @@ img{
 }
 
 #top3-img{
-   background-image: url(/AAlandingpage/bg-grad.svg);
+   background-image: url(/AAlandingpage/assets/img/main-bg.svg);
     height: 100vh;
     background-size: cover;
 background-position: center center;
@@ -311,7 +311,7 @@ margin-left: 3rem;
 }
 
 #work{
-    background-image: url(/AAlandingpage/dragon-scales.svg);
+    background-image: url(/AAlandingpage/assets/img/dragon-scales.svg);
     
 }
 
@@ -372,7 +372,7 @@ margin-bottom: 3rem;
 }
 
 .main-bg3{
-    background-image: url(/AAlandingpage/rainbow-vortex.svg);
+    background-image: url(/AAlandingpage/assets/img/rainbow-vortex.svg);
     background-position: center center;
     background-size: cover;
 }
